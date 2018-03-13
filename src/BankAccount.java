@@ -1,5 +1,6 @@
 
 public class BankAccount {
+	
 	private static final int MINBAL = 1000;
 	int Balance;
 	String Customer;

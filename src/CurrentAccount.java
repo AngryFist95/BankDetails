@@ -1,6 +1,7 @@
 
 public class CurrentAccount extends BankAccount {
 
+	
 	public CurrentAccount(String customer, int acountNumber, int balance, int overdraft) {
 		super(customer, acountNumber, balance);
 		this.overdraft=overdraft;
